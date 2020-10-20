@@ -1,10 +1,17 @@
-# Travel Agency Web Design
+![Click here](https://github.com/ZiaXDev/Travel-Agency-Web-Design/blob/master/img/Screenshot%20(51).png)
 
+
+#### Download
+ ```
+git clone https://github.com/ZiaCodes/Travel-Agency-Web-Design.git
+ ```
 
 ### tech used
->HTML
+> HTML
 > CSS
 > JS
+
+> Bootstrap
 
 
 
