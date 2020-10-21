@@ -6,7 +6,7 @@
 }
 
 html {
-  font: normal 16px sans-serif;
+  font: normal 15px sans-serif;
   color: #555;
 }
 
@@ -31,7 +31,7 @@ a.btn {
   font-weight: bold;
   text-align: center;
   background-color: #D78F55;
-  opacity: 1;
+  opacity: 1.1;
 }
 
 hr {
@@ -90,7 +90,7 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 35px 100px 0;
-  animation: 1s fadein 0.5s forwards;
+  animation: 1s fadein 0.6s forwards;
   opacity: 0;
   color: #1a0d00;
   z-index:9999999;
