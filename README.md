@@ -1,4 +1,4 @@
-![Click here](https://github.com/ZiaXDev/Travel-Agency-Web-Design/blob/master/img/Screenshot%20(51).png)
+![Web Demo](https://github.com/ZiaXDev/Travel-Agency-Web-Design/blob/master/img/Screenshot%20(51).png)
 
 
 #### Download
